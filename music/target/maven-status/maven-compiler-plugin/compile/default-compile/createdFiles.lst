@@ -1,0 +1,7 @@
+com\musicApp\model\Album.class
+com\musicApp\model\Track.class
+com\musicApp\dao\AlbumDAO.class
+com\musicApp\rest\AlbumService.class
+com\musicApp\rest\AlbumController.class
+com\musicApp\dao\TrackDAO.class
+com\musicApp\app\Application.class
